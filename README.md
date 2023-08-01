@@ -2,7 +2,7 @@
 
 **Replace listing projects with answering what type of projects to focus on -** Listing projects would limit me to a local optimum, I'd rather craft a plan that answers what kind of marketing should be the focus: product marketing, sales marketing, social and content creation, or more (see [marketing specializations](https://github.com/openmarketing/calcom/blob/main/marketing-types) from _Elad Gil's High Growth Handbook_).
 
-**Explore going all-in on Enterprise -** The Enterprise product brings more growth predictability than the Infrastructure one to unlock series B, which I assume is the next goal unless Infrastructure already has traction and/or your board is unusually long-term focused, so intentionally excluded the Stripe like product marketing playbook from this exercise. I'll check the data on day 1.
+**Explore going all-in on Enterprise -** The Enterprise product brings more growth predictability than the Infrastructure one to unlock series B, which I assume is the next goal unless Infrastructure already has traction and/or your board is unusually long-term focused, so intentionally excluded the dev focused, Stripe-like product marketing playbook from this exercise. I'll check the data on day 1.
 
 **Replace onboarding on internal docs by running projects with deliverables -** reading docs is usually inefficient. Getting reviews on deliverables will align us faster. For example, instead of "studying users", I'll interview some to create case studies.
 
@@ -43,7 +43,7 @@
 - **Define my role** - should we focus my role on
   - conversion, aka more growth or/and product marketing,
   - or on sales marketing?
-  - All the above will help answer this. Looking at the number of users on cal.com/open, my hunch is we'll end up with layering sales motion on product-led growth, aka with me doing all three. **This would make increasing conversion key, which I've done extensively at Uber (+30% increase in driver sign up) and Amex (leading projects that increased the merchant activation rate by +20% while increasing NPS by 13) .** 
+  - All previous weeks' projects will help answer this. Looking at the number of users on cal.com/open, my hunch is we'll end up with layering sales motion on product-led growth, aka with me doing all three. **This would make increasing conversion key, which I've done extensively at Uber (+30% increase in driver sign up) and Amex (leading projects that increased the merchant activation rate by +20% while increasing NPS by 13) .** 
 
 - Sanity check our focus and my associated focus by **interviewing VP Sales from my and the founders’ network**. 
 
