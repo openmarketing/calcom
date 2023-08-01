@@ -1,6 +1,6 @@
 <h1 style="font-size:300%;"> 📅 Cal.com assignement</h1>
 
-**Replace listing projects with answering what type of projects to focus on -** Listing projects would limit me to a local optimum, I'd rather craft a plan that answers what kind of marketing should be the focus: product marketing, sales marketing, social and content creation, or more (see [marketing specializations](https://github.com/openmarketing/cal.com/blob/main/marketing-types) from _Elad Gil's High Growth Handbook_).
+**Replace listing projects with answering what type of projects to focus on -** Listing projects would limit me to a local optimum, I'd rather craft a plan that answers what kind of marketing should be the focus: product marketing, sales marketing, social and content creation, or more (see [marketing specializations](https://github.com/openmarketing/calcom/blob/main/marketing-types)) from _Elad Gil's High Growth Handbook_).
 
 **Explore going all-in on Enterprise -** The Enterprise product brings more growth predictability than the Infrastructure one to unlock series B, which I assume is the next goal unless Infrastructure already has traction and/or your board is unusually long-term focused, so intentionally excluded the Stripe like product marketing playbook from this exercise. I'll check the data on day 1.
 
